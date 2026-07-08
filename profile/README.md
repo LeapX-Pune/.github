@@ -97,6 +97,8 @@ We are a diverse group of **11 engineers and creators** working together from Pu
       </a>
       <br>
     </td>
+    </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/pulaksaha143">
         <img src="https://github.com/pulaksaha143.png" width="80" style="border-radius:50%">
