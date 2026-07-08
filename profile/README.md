@@ -53,23 +53,6 @@ A modern, real-time data visualization hub aggregating regional weather conditio
 
 ---
 
-## 👥 Meet the Team
-
-We are a diverse group of **11 engineers and creators** working together from Pune and beyond:
-
-| Developer | GitHub Username | Role / Identifier |
-| --- | --- | --- |
-| **TheAditronik** | [@TheAditronik](https://github.com/TheAditronik) | AdityaVawhal15-maker |
-| **Ankit Bhalke** | [@Ankitbhalke137](https://github.com/Ankitbhalke137) | `he/him` • Pune |
-| **Devansh Mittal** | [@devansh0005](https://github.com/devansh0005) | devansh0005 |
-| **KD_1501** | [@kshiti-das-01](https://github.com/kshiti-das-01) | **Owner** |
-| **Rehan Azim** | [@MIT-REHAN](https://github.com/MIT-REHAN) | MIT-REHAN |
-| **Pulak Saha** | [@pulaksaha143](https://github.com/pulaksaha143) | pulaksaha143 |
-| **Sai Shendge** | [@saishendge6](https://github.com/saishendge6) | saishendge6 |
-| **Sauryaman Bisen** | [@sauryamanbisen-art](https://github.com/sauryamanbisen-art) | sauryamanbisen-art |
-| **Khushi Shah** | [@shahkhushi0307](https://github.com/shahkhushi0307) | shahkhushi0307 |
-| **Sumit Tiwari** | [@sumittiwari1302](https://github.com/sumittiwari1302) | sumittiwari1302 |
-| **Sankalp Tiwari (Zenthar)** | [@zenthar-dev](https://github.com/zenthar-dev) | zenthar-dev |
 
 ---
 
