@@ -53,89 +53,94 @@ A modern, real-time data visualization hub aggregating regional weather conditio
 
 ---
 
-
----
-
 ## 👥 Meet the Team
 
 We are a diverse group of **11 engineers and creators** working together from Pune and beyond:
 
-<table width="100%" cellpadding="10" cellspacing="0" border="0" align="center">
+<table width="100%">
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/Ankitbhalke137">
-        <img src="https://github.com/Ankitbhalke137.png" width="100" style="border-radius:50%">
-        <br><sub><b>Ankit Bhalke</b></sub>
+        <img src="https://github.com/Ankitbhalke137.png" width="100px;" alt="Ankit Bhalke"/><br />
+        <sub><b>Ankit Bhalke</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/TheAditronik">
-        <img src="https://github.com/TheAditronik.png" width="100" style="border-radius:50%">
-        <br><sub><b>Aditya</b></sub>
+        <img src="https://github.com/TheAditronik.png" width="100px;" alt="Aditya"/><br />
+        <sub><b>Aditya</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/devansh0005">
-        <img src="https://github.com/devansh0005.png" width="100" style="border-radius:50%">
-        <br><sub><b>Devansh Mittal</b></sub>
+        <img src="https://github.com/devansh0005.png" width="100px;" alt="Devansh Mittal"/><br />
+        <sub><b>Devansh Mittal</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/kshitij-das-01">
-        <img src="https://github.com/kshitij-das-01.png" width="100" style="border-radius:50%">
-        <br><sub><b>Kshitij Das1</b></sub>
+      <a href="https://github.com/kshiti-das-01">
+        <img src="https://github.com/kshiti-das-01.png" width="100px;" alt="Kshitij Das1"/><br />
+        <sub><b>Kshitij Das1</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/MIT-REHAN">
-        <img src="https://github.com/MIT-REHAN.png" width="100" style="border-radius:50%">
-        <br><sub><b>Rehan Azim</b></sub>
+        <img src="https://github.com/MIT-REHAN.png" width="100px;" alt="Rehan Azim"/><br />
+        <sub><b>Rehan Azim</b></sub>
       </a>
     </td>
   </tr>
+  <!-- Row 2 -->
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/pulaksaha143">
-        <img src="https://github.com/pulaksaha143.png" width="100" style="border-radius:50%">
-        <br><sub><b>Pulak Saha</b></sub>
+        <img src="https://github.com/pulaksaha143.png" width="100px;" alt="Pulak Saha"/><br />
+        <sub><b>Pulak Saha</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/saishendge6">
-        <img src="https://github.com/saishendge6.png" width="100" style="border-radius:50%">
-        <br><sub><b>Sai Shendge</b></sub>
+        <img src="https://github.com/saishendge6.png" width="100px;" alt="Sai Shendge"/><br />
+        <sub><b>Sai Shendge</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/sauryamanbisen-art">
-        <img src="https://github.com/sauryamanbisen-art.png" width="100" style="border-radius:50%">
-        <br><sub><b>Sauryaman Bisen</b></sub>
+        <img src="https://github.com/sauryamanbisen-art.png" width="100px;" alt="Sauryaman Bisen"/><br />
+        <sub><b>Sauryaman Bisen</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/shahkhushi0307">
-        <img src="https://github.com/shahkhushi0307.png" width="100" style="border-radius:50%">
-        <br><sub><b>Khushi Shah</b></sub>
+        <img src="https://github.com/shahkhushi0307.png" width="100px;" alt="Khushi Shah"/><br />
+        <sub><b>Khushi Shah</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/sumittiwari1302">
-        <img src="https://github.com/sumittiwari1302.png" width="100" style="border-radius:50%">
-        <br><sub><b>Sumit Tiwari</b></sub>
+        <img src="https://github.com/sumittiwari1302.png" width="100px;" alt="Sumit Tiwari"/><br />
+        <sub><b>Sumit Tiwari</b></sub>
       </a>
     </td>
   </tr>
+  <!-- Row 3 (Centered Bottom Row) -->
   <tr>
-    <td colspan="5" align="center">
+    <td></td>
+    <td></td>
+    <td align="center" width="20%">
       <a href="https://github.com/zenthar-dev">
-        <img src="https://github.com/zenthar-dev.png" width="100" style="border-radius:50%">
-        <br><sub><b>Sankalp Tiwari</b></sub>
+        <img src="https://github.com/zenthar-dev.png" width="100px;" alt="Sankalp Tiwari"/><br />
+        <sub><b>Sankalp Tiwari</b></sub>
       </a>
     </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
 ---
+
 
 ## 🤝 Contributing
 
