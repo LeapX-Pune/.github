@@ -90,9 +90,7 @@ We are a diverse group of **11 engineers and creators** working together from Pu
       </a>
       <br>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+      <td align="center">
       <a href="https://github.com/MIT-REHAN">
         <img src="https://github.com/MIT-REHAN.png" width="80" style="border-radius:50%">
         <br><sub><b>Rehan Azim</b></sub>
@@ -120,8 +118,6 @@ We are a diverse group of **11 engineers and creators** working together from Pu
       </a>
       <br>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/shahkhushi0307">
         <img src="https://github.com/shahkhushi0307.png" width="80" style="border-radius:50%">
