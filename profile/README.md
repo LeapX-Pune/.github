@@ -21,8 +21,8 @@ We build interactive user interfaces and high-performance backend pipelines. Our
 
 ```js
 const techStack = {
-  languages: ["JavaScript", "HTML5"],
-  focusAreas: ["State Management", "UI/UX Interactions", "Responsive Web Apps", "Data Aggregation"]
+  languages: ["JavaScript", "HTML5", "CSS3"],
+  focusAreas: ["State Management", "UI/UX Interactions", "Responsive Web Apps", "Data Aggregation", "Task & Project Management", "Event Management", "Drag & Drop Interfaces"]
 };
 ```
 
@@ -47,7 +47,37 @@ The Member Dashboard project aims to deliver a high-performance, responsive fron
 
 ### 🌤️ [Weather-News-Aggregator-Dashboard](https://github.com/LeapX-Pune/Weather-News-Aggregator-Dashboard)
 
-A modern, real-time data visualization hub aggregating regional weather conditions alongside live news feeds to keep users informed at a single glance.
+A simple weather dashboard project skeleton with separate JavaScript modules for weather, news, and UI logic.
+
+* 🔧 **Primary Language:** JavaScript
+
+### 🎓 [student-progress-tracker](https://github.com/LeapX-Pune/student-progress-tracker)
+
+A Student Progress Tracking web application built using HTML, CSS and JavaScript to help students and educators monitor academic performance and track learning progress.
+
+* 🔧 **Primary Language:** HTML
+
+### 📋 [Project-Management-Board-2](https://github.com/LeapX-Pune/Project-Management-Board-2)
+
+A frontend project management board for creating, organizing, assigning, tracking, and managing tasks using a Kanban-style workflow.
+
+* 🔧 **Primary Language:** JavaScript
+
+### 📌 [Trello-Style-Project-Management-Board](https://github.com/LeapX-Pune/Trello-Style-Project-Management-Board)
+
+A responsive, Trello-style project management board featuring interactive drag-and-drop workflows, real-time activity logging, and advanced task filtering.
+
+* 🔧 **Primary Language:** CSS
+
+### 🎪 [event-ops](https://github.com/LeapX-Pune/event-ops)
+
+An immersive event listing and registration platform allowing users to discover, filter, and register for events with an admin dashboard and AI-like chat assistant.
+
+* 🔧 **Primary Language:** HTML
+
+### 🎫 [Event-Registration-Platform-2](https://github.com/LeapX-Pune/Event-Registration-Platform-2)
+
+An event registration platform for browsing, filtering, and signing up for events with a clean, responsive interface.
 
 * 🔧 **Primary Language:** JavaScript
 
